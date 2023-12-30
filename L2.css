@@ -16,6 +16,7 @@ body{
   display: block;
   justify-content: center;
   align-items: center;
+  margin-bottom: 10%;
 }
 
 header{
@@ -37,7 +38,7 @@ header{
   padding-right: 10%;
 }
 
-.wrapper-1{
+.wrapper{
   background: transparent;
   border: 2px solid rgba(255, 255, 255, .2);
   backdrop-filter:blur(20px);
@@ -47,7 +48,7 @@ header{
   padding: 30px 20px;
 }
 
-.wrapper-1 p{
+.wrapper p{
   font-size: 16px;
   line-height: 1.5;
 }
