@@ -52,6 +52,7 @@ header{
   background: rgba(0, 0, 0, 0.092);
   border: 2px solid rgba(255, 255, 255, .2);
   backdrop-filter:blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   box-shadow: 0 0 10px rgba(0, 0, 0, .2);
   color: #fff;
   border-radius: 10px;
