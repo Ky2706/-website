@@ -80,4 +80,8 @@ img{
   img{
     width: 100%;
   }
+
+   .container{
+    padding-top: 10%;
+  }
 }
