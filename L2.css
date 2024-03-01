@@ -61,3 +61,19 @@ header{
 .end{
   text-align: right;
 }
+
+.image{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  width: 50%;
+}
+
+
+@media(max-width: 400px){
+  img{
+    width: 100%;
+  }
+}
